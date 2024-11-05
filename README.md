@@ -1,2 +1,3 @@
-# LITA-Capstone-Project-1
-This is where i documented the analysis of the sales performance for a retail store
+# LITA_CAPSTONE_PROJECT
+## ZION HUB SALES PERFORMANCE ANALYSIS
+### PROJECT SUMMARY
